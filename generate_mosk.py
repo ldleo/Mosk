@@ -491,7 +491,7 @@ with open("app/src/main/res/layout/dialog_new_profile.xml", "w") as f:
         android:background="@drawable/bg_input"
         android:padding="12dp"
         android:gravity="center_vertical"
-        android:Clickable="true"
+        android:clickable="true"
         android:focusable="true">
 
         <TextView
