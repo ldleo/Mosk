@@ -84,7 +84,7 @@
         android:background="@drawable/bg_input"
         android:padding="12dp"
         android:gravity="center_vertical"
-        android:isClickable="true"
+        android:Clickable="true"
         android:focusable="true">
 
         <TextView
